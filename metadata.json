@@ -1,0 +1,6 @@
+{
+  "name": "GestorTV - CRM & Cobrança Recorrente para TV por Assinatura",
+  "description": "Sistema CRM e gestão de assinaturas com cobrança Pix automatizada, régua WhatsApp, controle de clientes, planos e suporte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

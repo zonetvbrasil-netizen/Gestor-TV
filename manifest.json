@@ -1,0 +1,17 @@
+{
+  "short_name": "GestorTV",
+  "name": "GestorTV - CRM & Cobrança Recorrente",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%230f172a'><rect width='192' height='192' rx='36' fill='%231e293b'/><rect x='36' y='56' width='120' height='90' rx='12' fill='none' stroke='%233b82f6' stroke-width='10'/><path d='M76 26 L96 56 L116 26' stroke='%2338bdf8' stroke-width='10' stroke-linecap='round' stroke-linejoin='round'/><circle cx='130' cy='100' r='6' fill='%2322c55e'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
